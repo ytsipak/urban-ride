@@ -14,7 +14,6 @@ Discover Urban Ride — Modern Car Rental Website!
 - 🎨 Custom filters, combobox, and modal elements <br>
 - 🧩 Complex search and filtering capabilities <br>
 - 🛣️ Established application routes <br>
-
 - 💻 Clean code <br>
 - 🎯 Optimized SEO <br> 
 - 📱 Mobile responsive <br>
