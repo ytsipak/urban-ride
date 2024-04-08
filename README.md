@@ -8,6 +8,8 @@ Discover Urban Ride — Modern Car Rental Website!
 
 👉 Live Demo: <a href='https://urban-ride.vercel.app/'>Live Demo</a>
 
+---
+
 <h3>🔍 How It Works</h3>
 1. Scroll to 'Explore Our Car Catalogue'. <br>
 2. Type in the car make and model. <br>
@@ -29,6 +31,8 @@ This functionality is currently being tested and will soon be uploaded to the ma
 - 🎯 Optimized SEO <br> 
 - 📱 Mobile responsive <br>
 - 📂 Organized file structure <br>
+
+---
 
 ### Built With
 [![Technologies](https://skillicons.dev/icons?i=next,typescript,tailwind,photoshop)](https://skillicons.dev)
