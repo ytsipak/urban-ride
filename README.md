@@ -15,7 +15,8 @@ Discover Urban Ride — Modern Car Rental Website!
 4. Hover over a car card and press the 'View More' button to see additional info about the car as well as different angles. <br> <br>
 
 Note: At present, fetching images may be slow and there is no loading indicator. <br>
-This functionality is currently being tested and will soon be uploaded to the main website.) <br>
+This functionality is currently being tested and will soon be uploaded to the main website. <br>
+---
 
 <h3>🛠️ Functionality</h3>
 - 🌐 Dual API integration [ RapidAPI & Imagin.Studio ] <br>
