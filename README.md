@@ -9,11 +9,11 @@ Discover Urban Ride — Modern Car Rental Website!
 👉 Live Demo: <a href='https://urban-ride.vercel.app/'>Live Demo</a>
 
 <h3>🔍 How It Works</h3>
-1. Scroll to 'Explore Our Car Catalogue'.
-2. Type in the car make and model.
-3. Data will be fetched, and you'll see the desired car along with its image.
-4. Hover over a car card and press the 'View More' button to see additional info about the car as well as different angles.
-(Note: At present, fetching images may be slow and there is no loading indicator. This functionality is currently being tested and will soon be uploaded to the main website.)
+1. Scroll to 'Explore Our Car Catalogue'. <br>
+2. Type in the car make and model. <br>
+3. Data will be fetched, and you'll see the desired car along with its image. <br>
+4. Hover over a car card and press the 'View More' button to see additional info about the car as well as different angles. <br>
+(Note: At present, fetching images may be slow and there is no loading indicator. This functionality is currently being tested and will soon be uploaded to the main website.) <br>
 
 <h3>🛠️ Functionality</h3>
 - 🌐 Dual API integration [ RapidAPI & Imagin.Studio ] <br>
