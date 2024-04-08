@@ -16,6 +16,7 @@ Discover Urban Ride — Modern Car Rental Website!
 
 Note: At present, fetching images may be slow and there is no loading indicator. <br>
 This functionality is currently being tested and will soon be uploaded to the main website. <br>
+
 ---
 
 <h3>🛠️ Functionality</h3>
